@@ -1,4 +1,4 @@
-# Bike Store Analysis (SQL, Power BI)
+# Bike Store Analysis (MySQL, Power BI)
 
 This repository contains an in-depth analysis of a bike store's sales data, focusing on identifying top-performing stores, customer insights, and product trends. The dataset used for this analysis can be found here: [Kaggle - Bike Store Sample Database](https://www.kaggle.com/datasets/dillonmyrick/bike-store-sample-database/data).
 
@@ -13,5 +13,5 @@ This project is part of my Data Analyst portfolio, and you can view my portfolio
 
 ## Files
 - `bike_store_query.sql`: Contains SQL queries used for data extraction and transformation.
-- `Bike_Store_Dashboard.pbix`: Power BI file with interactive visuals and dashboards.
-- `Bike_Store_Dashboard.pdf`: PDF export of the Power BI dashboard, providing a quick view of all visuals.
+- `Bike Store Performance.pbix`: Power BI file with interactive visuals and dashboards.
+- `Bike Store Performance.pdf`: PDF export of the Power BI dashboard, providing a quick view of all visuals.
